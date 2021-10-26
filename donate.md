@@ -1,3 +1,18 @@
+# Donating FAQs
+## Will my data be safe?
+We will be performing a factory reset on all donated phones. You can also do this yourself before donating. Instructions for performing a factory reset yourself can be found here: 
+* [Android](https://support.google.com/android/answer/6088915?hl=en)
+* [Samsung](https://www.samsung.com/us/support/answer/ANS00062029/)
+* [iPhone](https://www.businessinsider.com/how-to-reset-iphone)
+## Which device models can be donated?
+We will take any make or model.
+## What if the device is damaged?
+Not a problem! We accept donations in any and all conditions. Even if it doesn't turn on.
+## What if my phone isn't used for the project?
+We will recycle all unused donations.
+## What if I change my mind?
+All donations are final, please don't donate anything that you might want later.
+
 # How to Donate
 ## Step 1: Find the box 
 ### The donation box is located on the first floor of the [CSE building](https://goo.gl/maps/eoZYCCb5JN98bWM76). 
@@ -7,22 +22,7 @@
 ## Step 2 Fill out the survey
 Fill out one (very short) survey for each device being donated. The survey questions can be found [here](/survey.md), if you are interested in reviewing them beforehand.
 ## Step 3 Donate
-Wrap the completed survey around your device, and drop it in the box.
-# Donating FAQs
-## Which device models can be donated?
-We will take any make or model.
-## What if the device is damaged?
-Not a problem! We accept donations in any and all conditions. Even if it doesn't turn on.
-## Will my data be safe?
-We will be performing a factory reset on all donated phones. You can also do this yourself before donating. Instructions for performing a factory reset yourself can be found here: 
-* [Android](https://support.google.com/android/answer/6088915?hl=en)
-* [Samsung](https://www.samsung.com/us/support/answer/ANS00062029/)
-* [iPhone](https://www.businessinsider.com/how-to-reset-iphone)
-
-## What if my phone isn't used for the project?
-We will recycle all unused donations.
-## What if I change my mind?
-All donations are final, please don't donate anything that you might want later.
+Place the device(s) and completed survey(s) in a compostable donation bag, tie off the top, and drop the bag into the donation box.
 
 # About the Project
 Smartphones require a lot of energy to manufacture, and we go through them quickly. As many as **150 million** devices are thrown out each year in the U.S. alone. Options for dealing with discarded phones are also limited: The reselling market is small, and smartphone recycling is energy-intensive and hazardous. 
