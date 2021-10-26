@@ -17,6 +17,7 @@ _Context: This is a copy of the questionnaire to be filled out for each donated 
 * Device was fully or partially broken
 * Replaced with a new device
 * Replaced with a different used device
+* The device stopped receiving software updates
 * Other: ________________
 4. Why did you choose to keep this device until now? (Check all that apply)
 * Did not know how to dispose of properly / safely
