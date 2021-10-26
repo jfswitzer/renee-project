@@ -20,6 +20,8 @@ We will be performing a factory reset on all donated phones. You can also do thi
 * [iPhone](https://www.businessinsider.com/how-to-reset-iphone)
 ## What if my phone isn't used for the project?
 We will recycle all unused donations.
+## What if I change my mind?
+All donations are final, please don't donate anything that you might want later.
 
 # About the Project
 Smartphones require a lot of energy to manufacture, and we go through them quickly. As many as **150 million** devices are thrown out each year in the U.S. alone. Options for dealing with discarded phones are also limited: The reselling market is small, and smartphone recycling is energy-intensive and hazardous. 
