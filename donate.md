@@ -31,7 +31,6 @@ Our project goal is simple: Get more useful work out of the devices we've alread
 
 We have shown that a small smartphone-based datacenter has the potential to provide similar functionality to exising cloud computing platforms.
 
-## Towards a 100-smartphone datacenter
 Expanding the project to include more (and more diverse) devices is essential in order to evaluate our proposed solutions at scale. Over the next year, we aim to build out a 100-smartphone datacenter, built from donate smartphones and providing a computing platform for researchers at UCSD.
 
 # Contact
