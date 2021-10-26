@@ -5,7 +5,7 @@
 #### You can enter at the door next to the bear.
 ![Map 2](/renee-project/docs/assets/lowlevelmap.png)
 ## Step 2 Fill out the survey
-Fill out one (very short) survey for each device being donated. The survey questions can be found [here](/renee-project/survey.md), if you are interested in reviewing them beforehand.
+Fill out one (very short) survey for each device being donated. The survey questions can be found [here](/survey.md), if you are interested in reviewing them beforehand.
 ## Step 3 Donate
 Wrap the completed survey around your device, and drop it in the box.
 # Donating FAQs
