@@ -33,3 +33,6 @@ We have shown that a small smartphone-based datacenter has the potential to prov
 
 ## Towards a 100-smartphone datacenter
 Expanding the project to include more (and more diverse) devices is essential in order to evaluate our proposed solutions at scale. Over the next year, we aim to build out a 100-smartphone datacenter, built from donate smartphones and providing a computing platform for researchers at UCSD.
+
+# Contact
+If you have unanswered questions, feel free to contact the project lead, Jennifer Switzer, at jfswitze[at]ucsd[dot]edu
