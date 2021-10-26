@@ -7,7 +7,16 @@ We have shown that a small smartphone-based datacenter has the potential to prov
 
 ## Towards a 100-smartphone datacenter
 Expanding the project to include more (and more diverse) devices is essential in order to evaluate our proposed solutions at scale. Over the next year, we aim to build out a 100-smartphone datacenter, built from donate smartphones and providing a computing platform for researchers at UCSD.
-
+# How to Donate
+## Step 1: Find the box 
+The donation box is located on the first floor of the [CSE building](https://goo.gl/maps/eoZYCCb5JN98bWM76). 
+![Map 1](https://github.com/jfswitzer/renee-project/blob/main/highlevelmap.png)
+You can enter at the door next to the bear.
+![Map 2](https://github.com/jfswitzer/renee-project/blob/main/lowlevelmap.png)
+## Step 2 Fill out the survey
+Fill out one (very short) survey for each device being donated.
+## Step 3 Donate
+Wrap the completed survey around your device, and drop it in the box.
 # Donating FAQs
 ## Which device models can be donated?
 We will take any make or model.
