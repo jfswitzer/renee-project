@@ -30,4 +30,4 @@ _Context: This is a copy of the questionnaire to be filled out for each donated 
 6. \[Optional\] Your email, so that we can contact you about your responses to this survey: _________________
 
 If you are donating more than one device:
-This is device number ______ out of a total ______ donated.
+This is device number ____________ out of a total ____________ donated.
