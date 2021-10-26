@@ -19,9 +19,9 @@ All donations are final, please don't donate anything that you might want later.
 ![Map 1](/renee-project/docs/assets/highlevelmap.png)
 #### You can enter at the door next to the bear.
 ![Map 2](/renee-project/docs/assets/lowlevelmap.png)
-## Step 2 Fill out the survey
+## Step 2: Fill out the survey
 Fill out one (very short) survey for each device being donated. The survey questions can be found [here](/survey.md), if you are interested in reviewing them beforehand.
-## Step 3 Donate
+## Step 3: Donate
 Place the device(s) and completed survey(s) in a compostable donation bag, tie off the top, and drop the bag into the donation box.
 
 # About the Project
