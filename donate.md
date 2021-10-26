@@ -12,7 +12,7 @@ Wrap the completed survey around your device, and drop it in the box.
 ## Which device models can be donated?
 We will take any make or model.
 ## What if the device is damaged?
-We accept donations in any and all conditions.
+Not a problem! We accept donations in any and all conditions. Even if it doesn't turn on.
 ## Will my data be safe?
 We will be performing a factory reset on all donated phones. You can also do this yourself before donating. Instructions for performing a factory reset yourself can be found here: 
 * [Android](https://support.google.com/android/answer/6088915?hl=en)
