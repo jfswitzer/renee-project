@@ -1,12 +1,3 @@
-# About
-Smartphones require a lot of energy to manufacture, and we go through them quickly. As many as **150 million** devices are thrown out each year in the U.S. alone. Options for dealing with discarded phones are also limited: The reselling market is small, and smartphone recycling is energy-intensive and hazardous. 
-
-Our project goal is simple: Get more useful work out of the devices we've already manufactured. While a phone with a cracked screen might not make a good personal device, it can still act as a computer. 
-
-We have shown that a small smartphone-based datacenter has the potential to provide similar functionality to exising cloud computing platforms.
-
-## Towards a 100-smartphone datacenter
-Expanding the project to include more (and more diverse) devices is essential in order to evaluate our proposed solutions at scale. Over the next year, we aim to build out a 100-smartphone datacenter, built from donate smartphones and providing a computing platform for researchers at UCSD.
 # How to Donate
 ## Step 1: Find the box 
 The donation box is located on the first floor of the [CSE building](https://goo.gl/maps/eoZYCCb5JN98bWM76). 
@@ -29,3 +20,13 @@ We will be performing a factory reset on all donated phones. You can also do thi
 * [iPhone](https://www.businessinsider.com/how-to-reset-iphone)
 ## What if my phone isn't used for the project?
 We will recycle all unused donations.
+
+# About the Project
+Smartphones require a lot of energy to manufacture, and we go through them quickly. As many as **150 million** devices are thrown out each year in the U.S. alone. Options for dealing with discarded phones are also limited: The reselling market is small, and smartphone recycling is energy-intensive and hazardous. 
+
+Our project goal is simple: Get more useful work out of the devices we've already manufactured. While a phone with a cracked screen might not make a good personal device, it can still act as a computer. 
+
+We have shown that a small smartphone-based datacenter has the potential to provide similar functionality to exising cloud computing platforms.
+
+## Towards a 100-smartphone datacenter
+Expanding the project to include more (and more diverse) devices is essential in order to evaluate our proposed solutions at scale. Over the next year, we aim to build out a 100-smartphone datacenter, built from donate smartphones and providing a computing platform for researchers at UCSD.
