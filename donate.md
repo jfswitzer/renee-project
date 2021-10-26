@@ -4,6 +4,7 @@ We will be performing a factory reset on all donated phones. You can also do thi
 * [Android](https://support.google.com/android/answer/6088915?hl=en)
 * [Samsung](https://www.samsung.com/us/support/answer/ANS00062029/)
 * [iPhone](https://www.businessinsider.com/how-to-reset-iphone)
+
 ## Which device models can be donated?
 We will take any make or model.
 ## What if the device is damaged?
