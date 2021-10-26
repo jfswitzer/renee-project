@@ -1,9 +1,9 @@
 # How to Donate
 ## Step 1: Find the box 
 The donation box is located on the first floor of the [CSE building](https://goo.gl/maps/eoZYCCb5JN98bWM76). 
-![Map 1](https://github.com/jfswitzer/renee-project/blob/main/highlevelmap.png)
+![Map 1](renee-project/assets/highlevelmap.png)
 You can enter at the door next to the bear.
-![Map 2](https://github.com/jfswitzer/renee-project/blob/main/lowlevelmap.png)
+![Map 2](renee-project/assets/lowlevelmap.png)
 ## Step 2 Fill out the survey
 Fill out one (very short) survey for each device being donated.
 ## Step 3 Donate
