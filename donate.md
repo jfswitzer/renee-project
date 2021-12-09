@@ -15,16 +15,7 @@ We will recycle all unused donations.
 All donations are final, please don't donate anything that you might want later.
 
 # How to Donate
-## Step 1: Find the box 
-### The donation box is located on the first floor of the [CSE building](https://goo.gl/maps/eoZYCCb5JN98bWM76). 
-![Map 1](/renee-project/docs/assets/highlevelmap.png)
-#### You can enter at the door next to the bear.
-![Map 2](/renee-project/docs/assets/lowlevelmap.png)
-## Step 2: Fill out the survey
-Fill out one (very short) survey for each device being donated. The survey questions can be found [here](/survey.md), if you are interested in reviewing them beforehand.
-## Step 3: Donate
-Place the device(s) and completed survey(s) in a compostable donation bag, tie off the top, and drop the bag into the donation box.
-
+There is a donation box on the door to CSE 2234. You can also send an email to jfswitze@ucsd.edu to coordinate.
 # About the Project
 Smartphones require a lot of energy to manufacture, and we go through them quickly. As many as **150 million** devices are thrown out each year in the U.S. alone. Options for dealing with discarded phones are also limited: The reselling market is small, and smartphone recycling is energy-intensive and hazardous. 
 
